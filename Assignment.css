@@ -120,7 +120,7 @@ img {
 
 }
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
-.PhotoTopRight {
+#PhotoTopRight {
 	position: absolute;
 	top: 20%; 
 	right: 1.5%;
@@ -129,7 +129,7 @@ img {
 
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
-.PhotoTopLeft {
+#PhotoTopLeft {
 	position: absolute;
 	float: right;
 	top: 20%; 
@@ -137,7 +137,7 @@ img {
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
-.PhotoBotRight {
+#PhotoBotRight {
 	position: absolute;
 	top: 85%; 
 	right: 1.5%;
@@ -147,7 +147,7 @@ img {
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
-.PhotoBotLeft {
+#PhotoBotLeft {
 	position: absolute;
 	float: left;
 	top: 85% ; 
@@ -155,7 +155,7 @@ img {
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
-.PhotoCenter {
+#PhotoCenter {
 	position: absolute;
 	top: 70%;
 	right: 45%;
