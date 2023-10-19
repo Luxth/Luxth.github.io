@@ -123,7 +123,8 @@ ul li{
 	position: absolute;
 	top: 20%; 
 	right: 1.5%;
-	
+	height: 853px;
+	width: 640px;
 }
 
 
@@ -132,7 +133,8 @@ ul li{
 	position: absolute;
 	float: right;
 	top: 20%;
-	
+	height: 853px;
+	width: 640px;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -140,7 +142,8 @@ ul li{
 	position: absolute;
 	top: 85%; 
 	right: 1.5%;
-	
+	height: 360px;
+	width: 640px;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -148,7 +151,8 @@ ul li{
 	position: absolute;
 	float: left;
 	top: 85%;
-	
+	height: 853px;
+	width: 640px;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -156,7 +160,8 @@ ul li{
 	position: absolute;
 	top: 70%;
 	right: 45%;
-	
+	height: 853px;
+	width: 640px;
 }
 /*Taken reference from w3schools*/
 /* The table element has a 4px solid back border, which is thick.*/
