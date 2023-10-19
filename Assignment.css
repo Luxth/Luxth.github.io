@@ -2,7 +2,7 @@
 h1 {
 	text-align:center;
 	font-size: 3em;
-	
+	font-weight: bold;
 	
 }
 /*Heading 2 has its text assign to the left and is bolded. The font of heading is set to 20px and the text itself is in uppercase. Also the padding is 25px, which spaces the text on each side.*/
@@ -53,7 +53,7 @@ ul li{
 }
 /*The title class colour is black, and the text of the title class is being centred.*/
 .Title {
-	color: black;
+	color: #010101;
 	text-align:center;
 	font-size: 3em;
 }
