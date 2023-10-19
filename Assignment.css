@@ -125,6 +125,8 @@ img {
 	position: absolute;
 	top: 20%; 
 	right: 1.5%;
+	height: 100%;
+	width: 100%;
 }
 
 
@@ -133,6 +135,8 @@ img {
 	position: absolute;
 	float: right;
 	top: 20%;
+	height: 100%;
+	width: 100%;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -140,6 +144,8 @@ img {
 	position: absolute;
 	top: 85%; 
 	right: 1.5%;
+	height: 100%;
+	width: 100%;
 	
 	
 }
@@ -148,7 +154,9 @@ img {
 #PhotoBotLeft {
 	position: absolute;
 	float: left;
-	top: 85% ; 
+	top: 85%;
+	height: 100%;
+	width: 100%;
 	
 }
 
@@ -157,6 +165,8 @@ img {
 	position: absolute;
 	top: 70%;
 	right: 45%;
+	height: 100%;
+	width: 100%;
 	
 
 }
