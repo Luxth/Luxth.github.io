@@ -114,7 +114,7 @@ ul li{
 
 
 /*img tag is float to the left next to the navigation bar  and the width of the image is 60px*/
-img {
+.logo {
 	float: left;
 	width: 60px;
 }
