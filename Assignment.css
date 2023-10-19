@@ -125,7 +125,7 @@ img {
 	right: 1.5%;
 	height: 100%;
 	width: 100%;
-	overflow:auto;
+	overflow: hidden;
 }
 
 
@@ -136,7 +136,7 @@ img {
 	top: 20%;
 	height: 100%;
 	width: 100%;
-	overflow:auto;
+	overflow: hidden;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -146,7 +146,7 @@ img {
 	right: 1.5%;
 	height: 100%;
 	width: 100%;
-	overflow:auto;
+	overflow: hidden;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -156,7 +156,7 @@ img {
 	top: 85%;
 	height: 100%;
 	width: 100%;
-	overflow:auto;
+	overflow: hidden;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -166,7 +166,7 @@ img {
 	right: 45%;
 	height: 100%;
 	width: 100%;
-	overflow:auto;
+	overflow: hidden;
 }
 /*Taken reference from w3schools*/
 /* The table element has a 4px solid back border, which is thick.*/
