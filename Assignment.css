@@ -125,8 +125,6 @@ img {
 	position: absolute;
 	top: 20%; 
 	right: 1.5%;
-	height: auto;
-	max-width: 100%;
 }
 
 
@@ -134,9 +132,7 @@ img {
 #PhotoTopLeft {
 	position: absolute;
 	float: right;
-	top: 20%; 
-	height: auto;
-	max-width: 100%;
+	top: 20%;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -144,8 +140,7 @@ img {
 	position: absolute;
 	top: 85%; 
 	right: 1.5%;
-	height: auto;
-	max-width: 100%;
+	
 	
 }
 
@@ -154,8 +149,7 @@ img {
 	position: absolute;
 	float: left;
 	top: 85% ; 
-	height: auto;
-	max-width: 100%;
+	
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -163,8 +157,7 @@ img {
 	position: absolute;
 	top: 70%;
 	right: 45%;
-	height: auto;
-	max-width: 100%;
+	
 
 }
 /*Taken reference from w3schools*/
