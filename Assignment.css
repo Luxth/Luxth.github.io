@@ -125,8 +125,8 @@ img {
 	position: absolute;
 	top: 20%; 
 	right: 1.5%;
-	height: 4032px
-	width: 3024px
+	height: auto;
+	width: 3024px;
 }
 
 
@@ -135,7 +135,7 @@ img {
 	position: absolute;
 	float: right;
 	top: 20%; 
-	height: 4032px;
+	height: auto;
 	width: 3024px;
 }
 
@@ -144,7 +144,7 @@ img {
 	position: absolute;
 	top: 85%; 
 	right: 1.5%;
-	height: 340px;
+	height: auto;
 	width: 640px;
 	
 }
@@ -154,7 +154,7 @@ img {
 	position: absolute;
 	float: left;
 	top: 85% ; 
-	height: 4032px;
+	height: auto;
 	width: 3024px;
 }
 
@@ -163,7 +163,7 @@ img {
 	position: absolute;
 	top: 70%;
 	right: 45%;
-	height: 4032px;
+	height: auto;
 	width: 3024px;
 
 }
