@@ -1,7 +1,7 @@
 /*Heading 1 has it text assign to the center of the page*/
 h1 {
 	text-align:center;
-	font-size: 3em;
+	font-size: 1em;
 	font-weight: bold;
 	
 }
@@ -55,7 +55,7 @@ ul li{
 .Title {
 	color: #010101;
 	text-align:center;
-	font-size: 3em;
+	font-size: 1em;
 	
 }
 
