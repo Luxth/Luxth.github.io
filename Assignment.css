@@ -163,6 +163,7 @@ img {
 	height: auto;
 
 }
+/*Taken reference from w3schools*/
 /* The table element has a 4px solid back border, which is thick.*/
 table, th, td {
 	border: 4px solid black;
