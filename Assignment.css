@@ -126,7 +126,7 @@ img {
 	top: 20%; 
 	right: 1.5%;
 	height: auto;
-	width: 3024px;
+	max-width: 100%;
 }
 
 
@@ -136,7 +136,7 @@ img {
 	float: right;
 	top: 20%; 
 	height: auto;
-	width: 3024px;
+	max-width: 100%;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -145,7 +145,7 @@ img {
 	top: 85%; 
 	right: 1.5%;
 	height: auto;
-	width: 640px;
+	max-width: 100%;
 	
 }
 
@@ -155,7 +155,7 @@ img {
 	float: left;
 	top: 85% ; 
 	height: auto;
-	width: 3024px;
+	max-width: 100%;
 }
 
 /*The id “PhotoTopRight” and the other ids have been positioned absolute, which mean it anchor to the nearest corner of the page.*/
@@ -164,7 +164,7 @@ img {
 	top: 70%;
 	right: 45%;
 	height: auto;
-	width: 3024px;
+	max-width: 100%;
 
 }
 /*Taken reference from w3schools*/
